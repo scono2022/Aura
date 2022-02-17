@@ -8,13 +8,10 @@
  
 import pygame
 
-
 #import RPi.GPIO as GPIO
 import time
  
 # Definitions
-
-
 
 
 # Initialize Pygame
@@ -43,13 +40,11 @@ while not complete:
     # - Screen clearing code goes here
     screen.fill((0,0,0))
 
-
     # - Draw objects on the screen
     
      
     # - Update the screen with our drawing
     pygame.display.flip()
-
 
     # Set frame rate
     clock.tick(30)
