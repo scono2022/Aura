@@ -3,7 +3,7 @@ Phase 1 Base Code
 
 Phase 1 Requirements
   Shall setup the Raspberry Pi and configure it for the project
-    Shall install the Paspbian OS
+    Shall install the Raspbian OS
     Shall enable SPI and I2C I/O
     Shall install and setup SW tools
   Shall demonstrate basic undertsanding of Python coding
